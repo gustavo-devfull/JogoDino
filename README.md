@@ -1,2 +1,6 @@
 # JogoDino
-Jogo Dinossauro Jogo de Resgate feito na aula Construindo o seu primeiro jogo de naves com HTML, CSS e Javascript  link para o jogo online: https://gustavosantos.xyz/genius/
+
+Jogo Dinossauro feito na aula 
+
+Recriando o famoso jogo do dinossauro sem internet com HTML, CSS e Javascript  
+link para o jogo online: https://gustavosantos.xyz/dino
